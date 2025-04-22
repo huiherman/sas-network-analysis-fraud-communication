@@ -28,7 +28,7 @@ To analyze a communication network and identify key nodes, communities, and pote
 - `a2_work.sas`: Cleaned and structured SAS code
 
 ## Download Presentation
-[Click here to download the presentation](./SAS_Network_Analytics_Presentation_Herman_Hui.pptx)
+https://github.com/huiherman/sas-network-analysis-fraud-communication/raw/main/SAS_Network_Analytics_Presentation_Herman_Hui.pptx
 
 ## Author
 Herman Hui  
